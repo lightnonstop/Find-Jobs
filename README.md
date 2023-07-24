@@ -1,5 +1,3 @@
-![RN Course](https://i.ibb.co/VWMxgZz/File-cover-8.png)
-
 # Find jobs in your area and beyond with a search
 
 ## Run the app locally
