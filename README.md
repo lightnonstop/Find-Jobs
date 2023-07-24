@@ -1,22 +1,29 @@
-# Find jobs in your area and beyond with a search
+# Find jobs in your area and beyond with a search (Built with React Native)
 
-## Run the app locally
+# Tools and Features
+- Clean UI/UX designs
+- Data fetching from an external API (RAPID API) and integration
+- Search & pagination functionality implementation
+- CustomAPI data fetching hooks
+- Clean, organized, and maintainable code with proper architecture
+- Followed best practices for React Native development
+- 
+## To Run this app locally
 
 ### First Install dependencies
 ```
 npm install or
 yarn
 pnpm install
-
 ```
-Alongside building this application, you'll also learn how to:
-- develop visually appealing UI/UX designs
-- fetch data from an external API and integrate it
-- implement search & pagination functionality
-- create customAPI data fetching hooks
-- write clean, organized, and maintainable code with proper architecture
-- follow the best practices for React Native development
+###
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+### Starting development server:
+
+1. Run this command:
+```
+npm start
+yarn start
+```
+Download Expo Go on app store for ios or playstore for android
+Then, open Expo go app. Scan the qr code for android or iso found in the terminal.
