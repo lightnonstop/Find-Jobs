@@ -7,7 +7,7 @@
 - CustomAPI data fetching hooks
 - Clean, organized, and maintainable code with proper architecture
 - Followed best practices for React Native development
-- 
+  
 ## To Run this app locally
 
 ### First Install dependencies
@@ -25,5 +25,5 @@ pnpm install
 npm start
 yarn start
 ```
-Download Expo Go on app store for ios or playstore for android
+Download Expo Go on app store for ios or playstore for android.
 Then, open Expo go app. Scan the qr code for android or iso found in the terminal.
