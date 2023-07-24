@@ -26,4 +26,4 @@ npm start
 yarn start
 ```
 Download Expo Go on app store for ios or playstore for android.
-Then, open Expo go app. Scan the qr code for android or iso found in the terminal.
+Then, open Expo go app. Scan the qr code for android or ios found in the terminal.
