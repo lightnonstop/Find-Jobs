@@ -20,7 +20,10 @@ pnpm install
 
 ### Starting development server:
 
-1. Run this command:
+#### Create .env file:
+Add .env file in root folder and add rapid api key with variable name
+
+#### Run this command:
 ```
 npm start
 yarn start
